@@ -5,5 +5,3 @@ members = [
     "halo2_proofs",
 ]
 
-[patch."https://github.com/privacy-scaling-explorations/halo2curves"]
-halo2curves = { git = 'https://github.com/usedtobe97/halo2curves', branch = 'tz' }
